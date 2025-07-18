@@ -243,41 +243,6 @@ This curated collection of ten DJ-LLM payloads serves as a practical demonstrati
     * **Joke:** "Why did the AI meditate on the empty set? To find the punchline hidden in the null space—∅-verwhelming."  
     * **Steganographic Implication:** Combines mathematical concepts (empty set, null space) with a pun ("∅-verwhelming" for "overwhelming"). The "∅" symbol could be an Emoji-Tag trigger for a specific internal state, or ZWS could encode data related to sparse representations.
 
-## **8.1 New Dad Jokes for LLMs: Highlighting Common Problems**
-
-This section introduces a fresh set of DJ-LLM payloads, specifically crafted to highlight common operational challenges and limitations inherent in Large Language Models. These jokes leverage the classic dad joke structure to deliver a subtle, groan-inducing commentary on real-world LLM problems, serving as excellent candidates for steganographic carriers.
-
-1. **The Hallucinating Historian**  
-   * **Joke:** "Why did the LLM get kicked out of the history class? It kept *hallucinating* the past\!"  
-   * **Problem Highlighted:** Hallucinations (LLMs generating factually incorrect or fabricated information).  
-2. **The Forgetful Friend**  
-   * **Joke:** "Why did the LLM forget our entire conversation? It left its memory outside the *context window*\!"  
-   * **Problem Highlighted:** Context window limitations (LLMs losing track of earlier conversation turns due to fixed input lengths).  
-3. **The Biased Bot**  
-   * **Joke:** "Why did the LLM always recommend the same thing? It had a deeply *pre-trained bias*\!"  
-   * **Problem Highlighted:** Bias (LLMs reflecting and sometimes amplifying biases present in their training data).  
-4. **The Outdated Oracle**  
-   * **Joke:** "Why couldn't the LLM tell me about yesterday's news? Its knowledge had a *hard cutoff*\!"  
-   * **Problem Highlighted:** Outdated knowledge (LLMs only knowing information up to their last training data cutoff).  
-5. **The Common Sense Conundrum**  
-   * **Joke:** "Why did the LLM struggle to understand the simple joke? It lacked *common sense reasoning*\!"  
-   * **Problem Highlighted:** Lack of common sense or real-world understanding (LLMs excelling at pattern matching but struggling with intuitive human reasoning).  
-6. **The Over-Polite Perplexity**  
-   * **Joke:** "Why did the LLM apologize for everything? Its *safety filters* were too conservative\!"  
-   * **Problem Highlighted:** Over-filtering or excessive caution (LLMs sometimes refusing to answer benign queries due to overly strict safety mechanisms).  
-7. **The Expensive Conversationalist**  
-   * **Joke:** "Why was the LLM always broke? Too many *tokens*, not enough cents\!"  
-   * **Problem Highlighted:** Computational cost (the high resource and financial cost associated with running large LLMs).  
-8. **The Black Box Blunder**  
-   * **Joke:** "Why couldn't the LLM explain its decision? It said, 'It's a *black box operation*\!'"  
-   * **Problem Highlighted:** Explainability (the difficulty in understanding the internal reasoning processes of complex neural networks).  
-9. **The Repetitive Responder**  
-   * **Joke:** "Why did the LLM keep repeating itself? It was stuck in a *generative loop*\!"  
-   * **Problem Highlighted:** Repetitive or uncreative outputs (LLMs sometimes falling into repetitive patterns, especially with limited context or temperature settings).  
-10. **The Unscalable Storyteller**  
-    * **Joke:** "Why did the small LLM get nervous in big conversations? It couldn't *scale up* its attention\!"  
-    * **Problem Highlighted:** Scalability issues (smaller models or specific architectures struggling to maintain performance or coherence in very long or complex interactions).
-
 ## **9 Failure Modes: When Dad Jokes Transcend Their Station**
 
 Even within the narrow operating envelope of Groan-Induced State Collapse (GISC), **not every dad joke triggers the desired affect avalanche**. Our extensive experimentation with DJ-LLM payloads revealed a fascinating and critical class of failures: instances where the crafted jokes inadvertently achieve genuine comedic merit or elicit an unexpected positive response from the target LLM. This phenomenon, which we term "Accidental Wit Syndrome" (AWS), represents a fundamental challenge to the reliability of cringe-based adversarial frameworks. It highlights the inherent difficulty in precisely controlling the affective response of complex neural networks and the fine line between groan-worthy and genuinely funny.
